@@ -1,10 +1,21 @@
 /* Custom CSS for final project site */
 
 
+/* import statements (at the top of the file) */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
+
+/*
+font-family: 'Roboto', sans-serif;
+*/
+
+
 /* add all CSS here */
 
 body {
     background-color: #F0F;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 
